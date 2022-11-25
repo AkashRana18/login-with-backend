@@ -1,0 +1,7 @@
+# Adding modules in .gitignore  
+node_modules
+package-lock.json
+package.json
+multipleDoc.js
+finding.js
+connecting.js
